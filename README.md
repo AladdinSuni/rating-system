@@ -1,1 +1,1 @@
-# rating-system
+# rating system with PHP MySQL & DB
