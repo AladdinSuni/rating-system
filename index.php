@@ -12,15 +12,6 @@
     require_once 'config.php';
     $post_id = '1'; 
   ?>
-  <div class="webcodo-top" >
-    <a href="http://www.webcodo.net/rating-stars-system-with-jquery-ajax-php">
-      <div class="wcd wcd-tuto"> < Come back to the tuto page</div>
-    </a>
-    <a href="http://webcodo.com">
-      <div class="wcd wcd-logo">WEBCODO</div>
-    </a>
-    <div class="wcd"></div>
-  </div>
   <div class="tuto-cnt">
     <div class="rate-ex1-cnt">
       <div id="1" class="rate-btn-1 rate-btn"></div>
